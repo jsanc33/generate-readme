@@ -73,7 +73,7 @@ function init() {
 
         console.log(markdownContent);
 
-        fs.writeFile('./README.md', markdownContent, (err) => {
+        fs.writeFile('./GENERATEDREADME.md', markdownContent, (err) => {
             if (err) throw err;
             console.log('README.md file has been generated!');
         });
