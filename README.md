@@ -12,9 +12,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/jsanc33/generate-readme">
-    <img src="https://img.icons8.com/clouds/100/000000/readme.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Professional README Generator</h3>
 
